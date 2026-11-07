@@ -252,6 +252,8 @@
 			<Language>Русский</Language>
 			<Subsystem>СкладскойУчёт</Subsystem>
 			<CommonModule>УправлениеОстатками</CommonModule>
+			<CommonModule>УправлениеДвижениями</CommonModule>
+			<CommonModule>ПроверкаДанныхДокументов</CommonModule>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
 			<Document>ПоступлениеТоваров</Document>
