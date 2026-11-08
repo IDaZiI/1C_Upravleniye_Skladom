@@ -257,7 +257,7 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
 			<Document>ПоступлениеТоваров</Document>
-			<Document>РеализацияТоваров</Document>
+			<Document>РасходТоваров</Document>
 			<Report>ОстаткиТоваров</Report>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 		</ChildObjects>
