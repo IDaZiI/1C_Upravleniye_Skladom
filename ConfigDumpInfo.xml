@@ -26,8 +26,8 @@
 			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Количество" id="74f52c2c-5287-4c4f-a42e-832b209d7ee3"/>
 			<Metadata name="Document.ПоступлениеТоваров.TabularSection.Товары.Attribute.Номенклатура" id="aab3570d-192d-4845-bcc9-1dcd57cb7c98"/>
 		</Metadata>
-		<Metadata name="Document.ПоступлениеТоваров.Form.ФормаДокумента" id="64f85b1c-2d86-4cf4-b04c-e6c2c92618fc" configVersion="c9294da8f0968549bb9787b5eebb852f00000000"/>
-		<Metadata name="Document.ПоступлениеТоваров.Form.ФормаДокумента.Form" id="64f85b1c-2d86-4cf4-b04c-e6c2c92618fc.0" configVersion="41b0999f4c344c498a50d8608184d53900000000"/>
+		<Metadata name="Document.ПоступлениеТоваров.Form.ФормаДокумента" id="64f85b1c-2d86-4cf4-b04c-e6c2c92618fc" configVersion="6b8a40edf8e4fd4bac644240fd2a760100000000"/>
+		<Metadata name="Document.ПоступлениеТоваров.Form.ФормаДокумента.Form" id="64f85b1c-2d86-4cf4-b04c-e6c2c92618fc.0" configVersion="d3c3d14ebfdd1940b2930293809c24dc00000000"/>
 		<Metadata name="Document.ПоступлениеТоваров.ObjectModule" id="2f23cdee-85f8-406c-bfe0-dad3392f70b7.0" configVersion="47e1c2971a95134790b37bb728355da200000000"/>
 		<Metadata name="Document.РасходТоваров" id="d26cbff8-7eb9-4ef5-89eb-b05a22ed4599" configVersion="4d241dd493a63047b022b379bc0fd36800000000">
 			<Metadata name="Document.РасходТоваров.TabularSection.Товары.Attribute.Номенклатура" id="10442ef8-dfc2-4362-b6a9-ef49d2390341"/>
